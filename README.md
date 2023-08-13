@@ -33,7 +33,7 @@ git clone [https://github.com/cephrius/minimalWeatherApp.git](https://github.com
 
 4. Use the search bar to enter a location and click the "Search" button to retrieve weather information.
 
-## Api Usage
+## API Usage
 
 In order to use the API you'll need to generate an API Key at [openweathermap.org](openweathermap.org)
 - Login and generate an api key; you'll need to add this key to line of of [`index.js`](index.js)
