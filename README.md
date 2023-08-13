@@ -1,6 +1,6 @@
 # ☀️ Weather App
 
-Welcome to [WeatherApp](minimal-weather-app-nu.vercel.app), a simple web application that provides weather forecasts for different locations. With WeatherApp, you can quickly retrieve weather information, including temperature, weather conditions, and more, for the current day and the next few days.
+Welcome to [WeatherApp](https://minimal-weather-2vtn1zo6x-cephriusv1.vercel.app/), a simple web application that provides weather forecasts for different locations. With WeatherApp, you can quickly retrieve weather information, including temperature, weather conditions, and more, for the current day and the next few days.
 
 ## Features
 
