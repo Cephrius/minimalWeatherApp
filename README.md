@@ -1,4 +1,4 @@
-# WeatherApp
+# ☀️ WeatherApp
 
 Welcome to WeatherApp, a simple web application that provides weather forecasts for different locations. With WeatherApp, you can quickly retrieve weather information, including temperature, weather conditions, and more, for the current day and the next few days.
 
