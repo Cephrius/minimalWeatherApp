@@ -8,7 +8,7 @@ Welcome to WeatherApp, a simple web application that provides weather forecasts 
 
 - **Current Weather**: Get the current weather conditions, temperature, and weather description for the selected location.
 
-- **Next 7 Days Forecast**: View a 4-day forecast that includes weather icons and temperature information for each day.
+- **Next 7 Days Forecast**: View a 7-day forecast that includes weather icons and temperature information for each day.
 
 - **Dynamic Weather Icons**: Weather conditions are visually represented using dynamic icons, allowing you to quickly understand the forecast.
 
