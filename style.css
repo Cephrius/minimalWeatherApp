@@ -8,7 +8,7 @@
 }
 
 body{
-    background-color: #37474f;
+    background-color: #2f575e;
     height: 100vh;
     display: flex;
     align-items: center;
@@ -21,6 +21,23 @@ body{
     color: #fff;
     border-radius: 25px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.35);
+}
+
+.header{
+    
+    font-weight: 700;
+    font-size: xx-large;
+    color: #fff;
+    position: absolute;
+    top: 480px;
+    left: 26%;
+
+}
+
+.header i {
+    font-size: 60px;
+    padding-bottom: 5px;
+    color: #e6b01e;
 }
 
 .left-info{
